@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workbooks_f0ac1ccd_a027_48ec_bb2d_a6de3de6e7ee_serializedData": {
+            "value": null
+        },
+        "virtualMachines_SOCMachine_name": {
+            "value": null
+        },
+        "virtualNetworks_Vnet_soclab_name": {
+            "value": null
+        },
+        "publicIPAddresses_SOCMachine_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_SOCMachine_vnet_name": {
+            "value": null
+        },
+        "dataCollectionRules_DCR_windows_name": {
+            "value": null
+        },
+        "networkInterfaces_socmachine258_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_SOCMachine_nsg_name": {
+            "value": null
+        },
+        "workspaces_LAW_soc_lab26_name": {
+            "value": null
+        },
+        "workbooks_f0ac1ccd_a027_48ec_bb2d_a6de3de6e7ee_name": {
+            "value": null
+        },
+        "solutions_SecurityInsights_law_soc_lab26__name": {
+            "value": null
+        }
+    }
+}
